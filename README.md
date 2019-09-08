@@ -5,7 +5,7 @@ Better Recipes is a Minecraft plugin that adds new recipes to improve the crafti
 
 This web guide contains all recipes for Better Recipes and guides as to how you can add your own recipes. <br>
 
-You can also find Better Recipes' Spigot Page [here](https://www.spigotmc.org/resources/better-recipes.70417/). 
+You can also find Better Recipes' Spigot Page [here](https://www.spigotmc.org/resources/better-recipes.70417/), and Bukkit Page [here](https://dev.bukkit.org/projects/recipes-plus). 
 
 ## Wiki
 There is a detailed and well-maintained Wiki for Better Recipes which can be found [here](https://github.com/whatusernameisleft/BetterRecipes/wiki).
